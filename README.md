@@ -6,7 +6,10 @@ Your Quotes app is a straightforward yet effective tool for reading and explorin
 
 ## Screenshots
 
-<table>
-    <tr> ![Screenshot_2024-04-12-18-08-17-42_a886ee6796067221aa70267acf61df57](https://github.com/Yash-Kuvadiya/MyQuotes-App/assets/166684225/6e4d6e1e-5105-4579-9905-ec2e4b7c077b)  </tr>
-    <tr> ![Screenshot_2024-04-12-18-08-23-54_a886ee6796067221aa70267acf61df57](https://github.com/Yash-Kuvadiya/MyQuotes-App/assets/166684225/2c81b30e-c105-4817-ace4-55867e2242ac)  </tr>
-</table>
+
+
+
+![Screenshot_2024-04-12-18-08-17-42_a886ee6796067221aa70267acf61df57](https://github.com/Yash-Kuvadiya/MyQuotes-App/assets/166684225/cf662f5a-e2fa-4182-a380-905e7fdf89d6)
+
+
+![Screenshot_2024-04-12-18-08-23-54_a886ee6796067221aa70267acf61df57](https://github.com/Yash-Kuvadiya/MyQuotes-App/assets/166684225/6f1bb312-bd24-43f0-a417-e355d856ff29)
